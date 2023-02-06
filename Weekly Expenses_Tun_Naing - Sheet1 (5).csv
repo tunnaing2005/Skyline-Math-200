@@ -1,0 +1,20 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment
+1/19,Thursday,8,burrito,Food,Cash
+1/19,Thursday,10,fruits,Food,Cash
+1/20,Friday,6,boba,Food,Cash
+1/20,Friday,9,pizza,Food,Cash
+1/20,Saturday,50,haircut,selfcare,Cash
+1/23,Monday,8,chicken tender,Food,Cash
+1/23,Monday,4,fruits,Food,Cash
+1/23,Monday,3,lemon and ginger drink,drink,Cash
+1/24,Tuesday,9,bacon omelette ,Food,Cash
+1/25,Wednesday,9,bacon omelette ,Food,Cash
+1/25,Wednesday,9,chicken tendera,Food,Cash
+1/25,Wednesday,4,fruits cup,Food,Cash
+1/29,Sunday,9,acene treatment,skincare,Cash
+1/30,Monday,9,Chicken quesadea,Food,Cash
+2/1,Wednesday,5,fruit cup,Food,Cash
+2/4,Saturday,105,ice boarding,Travel,Debit
+2/4,Saturday,7,bbq chicken sandwiche,Food,Debit
+2/5,Sunday,25,Garlic noodles,Food,Debit
+2/6,Monday,8,BLT Sanwhich,Food,Debit
